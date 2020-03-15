@@ -1,0 +1,76 @@
+body {
+  margin-top: 0;
+  text-align: center;
+  color: #0f4c75;
+  line-height: 2;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 5.625rem;
+  margin: 1rem auto;
+}
+
+h2 {
+  font-family: 'Pacifico', cursive;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Girassol', cursive;
+}
+
+.pers_descr {
+  font-family: 'Girassol', cursive;
+  font-size: 2.5rem;
+  margin: 1rem auto;
+  font-weight: normal;
+}
+
+p {
+  font-family: 'PT Serif', serif;
+}
+
+span {
+  font-family: 'Pacifico', cursive;
+  color: #1b262c;
+}
+
+.chapter-icon {
+  border-radius: 25%;
+  width: 25%;
+}
+
+.profile-img {
+  border-radius: 25%;
+  width: 10%;
+}
+
+.top-container {
+  background-color: #bbe1fa;
+  padding-top: 100px;
+  position: relative;
+}
+
+.cloud_top {
+  position: absolute;
+  right: 600px;
+  top: 50px;
+}
+
+.cloud_bottom {
+  position: absolute;
+  left: 600px;
+  margin-bottom: 300px;
+}
+
+.middle-container {}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-container {}
